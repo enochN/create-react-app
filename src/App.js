@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+          Eddie's First Site
         </a>
         !
       </h2>
